@@ -1,0 +1,7 @@
+{
+    "threads": 20,
+    "is_do_task" : false,
+    "wait_time": 300,
+    "min_tap": 20,
+    "max_tap": 25
+}
